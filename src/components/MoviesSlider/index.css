@@ -1,0 +1,13 @@
+.btnAlign {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* .trigger-button {
+  padding: 12px;
+  background-color: bisque;
+
+} */
+.popVideo {
+  background-color: red;
+}
